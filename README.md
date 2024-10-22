@@ -1,5 +1,5 @@
-This is a project I would like to store for my case-study in the interview for Interdiscount.ch in Switzerland.
-Within this case-study, I have successfully used python to conduct data analysis for clarifying pricing strategy, bench-marking, competition analysis, etc.
+This is a project I would like to store for my case study in the interview for Interdiscount.ch in Switzerland.
+Within this case study, I have successfully used python to conduct data analysis for clarifying pricing strategy, bench-marking, competition analysis, etc.
 Due to the limitation for the size for the uploaded file, the original csv & xlsx files are not uploade.
 
 Original questions in German below:
